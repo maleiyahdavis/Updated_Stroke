@@ -2,7 +2,9 @@
 ## [Dashboard 2](https://public.tableau.com/views/Stroke_16880118094280/Dash2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-
+# Stroke-Prediction-Updated
+### Delegation:
+-Create Dashboards with interactive functions
 
 
 # Stroke-Prediction
